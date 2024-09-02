@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UKChangeCalculator", "UKCurrency_change\UKChangeCalculator.csproj", "{6E7D6B0A-A25D-44FC-A1A3-5D69102458BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UKChngeCalculator.tests", "UKChngeCalculator.tests\UKChngeCalculator.tests.csproj", "{EA5930DF-BEE3-48BC-9D8E-B6110B5B28E2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E7D6B0A-A25D-44FC-A1A3-5D69102458BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E7D6B0A-A25D-44FC-A1A3-5D69102458BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E7D6B0A-A25D-44FC-A1A3-5D69102458BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E7D6B0A-A25D-44FC-A1A3-5D69102458BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA5930DF-BEE3-48BC-9D8E-B6110B5B28E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA5930DF-BEE3-48BC-9D8E-B6110B5B28E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA5930DF-BEE3-48BC-9D8E-B6110B5B28E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA5930DF-BEE3-48BC-9D8E-B6110B5B28E2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D5006E8-A4BF-4AA0-B21C-FA8048081642}
+	EndGlobalSection
+EndGlobal
